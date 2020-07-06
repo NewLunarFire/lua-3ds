@@ -1,0 +1,1 @@
+error("Quit with this error message")

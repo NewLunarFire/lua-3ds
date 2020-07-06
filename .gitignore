@@ -1,0 +1,7 @@
+.bin
+.env
+.vscode
+build
+*.3dsx
+*.elf
+*.smdh
